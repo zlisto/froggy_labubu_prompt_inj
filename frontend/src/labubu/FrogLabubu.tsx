@@ -118,7 +118,7 @@ type Props = { mood?: string; className?: string; sticker?: boolean }
 export default function FrogLabubu({ mood = 'classic', className = '', sticker = true }: Props) {
   return (
     <Labubu
-      fur="#8a5a3b"
+      fur="#eae3b1"
       face="#f6d4bb"
       nose="#b8735c"
       eyeColor="#3a2016"
